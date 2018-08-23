@@ -1,10 +1,10 @@
 ---
 
-# Hacia una democracia con códigos
-## Pato Del Boca y Martín Gaitán
+# Hacia una democracia con cÃ³digos
+## Pato Del Boca y MartÃ­n GaitÃ¡n
 
-De cómo y por qué involucrarse en los problemas del país
-(¡y el mundo!) desde nuestros conocimientos en computación.
+De cÃ³mo y por quÃ© involucrarse en los problemas del paÃ­s
+(Â¡y el mundo!) desde nuestros conocimientos en computaciÃ³n.
 
 ---
 
@@ -16,45 +16,53 @@ Pato
 - Data enthusiast
 - Emprendedor
 - Guitar hero hero
-- Miembro de Open Data Córdoba
+- Miembro de Open Data CÃ³rdoba
 
 {.column}
 
-Martín
+MartÃ­n
 
-- Ingeniero en computación (UNC)
+- Ingeniero en computaciÃ³n (UNC)
 - Semi junior software developer
 - Padre de Ema
 - Deudor
-- Miembro de Open Data Córdoba
+- Miembro de Open Data CÃ³rdoba
 
 ---
 
 # Agenda
 
 - Intro: Democracia vs brecha digital
-- ¿Por qué?
-- ¿Cómo lo hago?
+- Â¿Por quÃ©?
+- Â¿CÃ³mo lo hago?
 - Ejemplos / Nuestra Experiencia
+- Tips
 
 ---
 
 # Democracia en tiempos del "big data"
 
 
-- Informatización de nuestra vida en sociedad
-    - Comunicación
-    - Política
-    - Negocios
+Nuestra vida en sociedad estÃ¡ informatizada
 
-- Analfabetismo tecnológico
-    - Implica una nueva forma de exclusión de la democracia
-    - Y también políticos precarios para estos tiempos
+  - ComunicaciÃ³n
+  - Ocio
+  - Negocios
+  - PolÃ­tica
+
+---
+
+## Analfabetismo tecnolÃ³gico
+
+Nueva forma de exclusiÃ³n de la democracia y una polÃ­tica mÃ¡s precaria
+
+{.column}
 
 ![](http://www.babeldigital.com.ar/data/img_cont/fk_editor/image/VOTO-ELECTRONICO-ELECCIONES-VOTAR.jpg)
 
-![](Aguad vs internet)
+{.column}
 
+IMAGEN AGUAD
 
 ----
 
@@ -71,7 +79,6 @@ Martín
 ---
 
 
-
 ![una gran responsabilidad](https://i.pinimg.com/originals/ff/dc/d3/ffdcd3e94c886c577787234345daf590.jpg)
 
 ---
@@ -80,7 +87,7 @@ Martín
 
 ![](https://i.snag.gy/02POdl.jpg)
 
-![](rango de salarios nacional o internacional)
+FOTO rango de salarios nacional o internacional
 
 <!--
  Plasticidad y eficacia del oficio. otras profesiones no te permiten por mas que quieras involucrarte. ya sea porque no tenes tiempo o porque no tenes herramientas.
@@ -89,20 +96,21 @@ Martín
 
 
 ---
-# No, en serio ¿Por qué?
-## No todo es negocio {.big}
+
+## Pero en serio Â¿Por quÃ©?
+# No todo es negocio {.big}
 
 <!--
 
-- hay necesidades tecnologicas no satisfechas por la lógica de mercado
+- hay necesidades tecnologicas no satisfechas por la lÃ³gica de mercado
 - tambien como profesionales: desarrollar otros intereses y aptitudes.
 - Lo que hacemos es creativo, Comparacion con artistas.
 -->
 
 ---
 
-# ¿Por qué?
-## Es "fácil" (join ftw!)
+# Â¿Por quÃ©?
+## Es "fÃ¡cil" (join ftw!)
 
 ![](https://i.pinimg.com/originals/b4/9b/8f/b49b8f9a85c58cd81be7efd1f9dcda56.png)
 
@@ -114,51 +122,91 @@ Martín
 
 ---
 
-# ¿Por qué?
+# Â¿Por quÃ©?
 ## Divertido
 
 - Te acerca a gente interesante
-- No sólo "geeks"
+- No sÃ³lo "geeks"
 - Es una forma de expresarse
 
 ---
-# ¿Por qué?
-## Nos da chapa (The Selfish Way)
+
+# Â¿Por quÃ©?
+## Nos da chapa {.big}
+
+(The Selfish Way)
+
 
 ---
 
-# ¿Cómo nos involucramos?
-## Procedimiento para Involucrarse
-1) Encontrar un problema que te interpele
-2) Hackearlo
+# Â¿CÃ³mo nos involucramos?
+
+## Receta:
+
+1) EncontrÃ¡ un problema que te interpele
+2) Hackealo
 
 ---
-## Nuestra Experiencia
 
-- Elsie
-- Bonito
-- Caso Fit
-- Análisis de Elecciones y Primer Hackaton Democracia con Códigos
-- Open Data Cordoba
-- Columna Radial
-- Precios Claros / CEPA
-- Miau y Pero Cristina.
+# Nuestra Experiencia {.big}
 
-## Otras Experiencias / Nuestras inpiraciones
+----
+
+# Bonito
+
+----
+
+# Elsie
+
+----
+
+# Caso Fit
+
+----
+
+# AnÃ¡lisis de Elecciones y Primer Hackaton Democracia con CÃ³digos
+
+----
+
+# Open Data Cordoba
+
+----
+
+# Columna Radial
+
+----
+
+# Precios Claros / CEPA
+
+----
+
+
+# Miau y Pero Cristina.
+
+----
+
+
+# Otras Experiencias / Nuestras inpiraciones
 
 - Argentina en Python
 - Tweet Humitos Cuba
 - Quintana Libre
-- Socios.red
 - Poroteo
 - Activa el Congreso
 ---
 
-# Y cómo? (Algunos tips)
+# Y cÃ³mo?
+## (Algunos tips)
 
 En grupo!
 
 - No tenemos mucho tiempo
 - No sabemos de todo
 - vincularse y articular con otros nos nutre
-- Siempre, pero siempre, hay un poco de rosca. ¯\_(???)_/¯
+- Siempre, pero siempre, hay un poco de rosca. Â¯\_(???)_/Â¯
+
+----
+
+# Â¿Charlamos? {.big}
+
+(preguntas aquÃ­)
